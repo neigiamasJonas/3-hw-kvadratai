@@ -19,7 +19,7 @@ Design: [Boxes](https://cdn.discordapp.com/attachments/950296439051911178/951432
 -   CSS
 -   Boxes
 -   Inline-block
--   Weight
+-   Width
 -   Margin
 -   Float
 
